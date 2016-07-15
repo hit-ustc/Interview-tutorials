@@ -77,8 +77,13 @@ This repository will be maintained for a long time. Of course, we can learn and 
 
 
 ##Machine Leaning
+###逻辑回归
+1. [逻辑回归](http://blog.csdn.net/pakko/article/details/37878837)
 
 ##Algorithm
+###面试题
+1. [最新百度 阿里 华为 腾讯 谷歌面试笔试题及解析 ](http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=29087962&id=3995874)
+
 ###海量数据
 1. [教你如何迅速秒杀掉：99%的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 
