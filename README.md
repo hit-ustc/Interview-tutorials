@@ -16,6 +16,7 @@ This repository will be maintained for a long time. Of course, we can learn and 
 1. [Runtime Message Forwarding](http://www.jianshu.com/p/7edf14b65d2e)
 2. [runtime快速入门和实战](http://www.jianshu.com/p/7d269b7c1821)
 3. [OC最实用的runtime总结，面试、工作你看我就足够了！](http://www.jianshu.com/p/ab966e8a82e2)
+4. [Objective-C 消息发送与转发机制原理](http://yulingtianxia.com/blog/2016/06/15/Objective-C-Message-Sending-and-Forwarding/)
 
 ###Runloop & Autorelease Pool
 1. [Autorelease && Autorelease Pool && Runloop](http://www.jianshu.com/p/32c7e5a585cd)
@@ -78,6 +79,8 @@ This repository will be maintained for a long time. Of course, we can learn and 
 ##Machine Leaning
 
 ##Algorithm
+###海量数据
+1. [教你如何迅速秒杀掉：99%的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 
 ##C/C++
 
