@@ -1,6 +1,6 @@
-#About Project
+#About Repo
 
-This project is mainly to collect some learning materials and interview questions, it contains `C/C++`, `Objective-C`, `Python`, `Machine Learning`, `Algorithm`and so on. This project is only for learn to study, without any commercial use. 
+This repository mainly collects some learning materials and interview questions, it contains `C/C++`, `Objective-C`, `Python`, `Machine Learning`, `Algorithm`and so on. The repository is only for learn to study, without any commercial use. 
 
 Thanks to the people who wrote these techniques!
 
